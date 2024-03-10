@@ -3,7 +3,7 @@ author: "Abhijeet Pawar"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
   using: "docker"
-  iamge: "DockerFile"
+  image: "DockerFile"
 branding:
   icon: "git-branch"
   color: "red"
